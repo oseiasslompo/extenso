@@ -16,4 +16,4 @@ Usage:
 		echo $e->getMessage();
 		echo $e->getCode();
 	}
-	```
+```
