@@ -1,0 +1,20 @@
+{
+    "name": "oseias/extenso",
+    "description": "Escreve número por extenso, em português, e com a pontuação correta.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Oseias Slompo",
+            "email": "oseiasslompo@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Oseias\\": "src/"
+        }
+    }
+}
