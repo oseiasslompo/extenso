@@ -4,21 +4,17 @@ Escreve número por extenso, obedecendo as regras da gramática portuguesa.
 
 ## Instalation
 
-Para instalar use o composer:
-
 ```shell
 composer require oseias/extenso
 ```
 
 ## Basics
 
-O método setValue pode receber valores numéricos, string ou float, com qualquer separador. Ex.: '1,123.12', '1.123,12', '1123.12' ou '1123,12'.
+- O método ***setValue()*** pode receber valores numéricos, string ou float, com qualquer separador. Ex.: '1,123.12', '1.123,12', '1123.12' ou '1123,12'.
 
-O método setCurrency pode receber strings, 'BRL' ou 'USD'.
+- O método ***setCurrency()*** pode receber strings, 'BRL' ou 'USD'.
 
 ## Usage
-
-Para utilizar:
 
 ```php
 	<?php
@@ -36,4 +32,4 @@ Para utilizar:
 ```
 
 ## Requirements
-- Necessário PHP 7.0 ou superior
+- PHP 7.0 ou superior
