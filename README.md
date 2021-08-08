@@ -1,7 +1,18 @@
-# extenso
+# PHP Extenso
+
 Escreve número por extenso
 
-Usage:
+## Instalation
+
+Para instalar use o composer:
+
+```shell
+composer require oseias/extenso
+```
+
+## Usage
+
+Para utilizar:
 
 ```php
 	<?php
@@ -17,3 +28,6 @@ Usage:
 		echo $e->getCode();
 	}
 ```
+
+## Requirements
+- Necessário PHP 7.0 ou superior
