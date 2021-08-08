@@ -1,6 +1,6 @@
 # PHP Extenso
 
-Escreve número por extenso
+Escreve número por extenso, obedecendo as regras da gramática portuguesa.
 
 ## Instalation
 
