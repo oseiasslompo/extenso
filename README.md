@@ -10,6 +10,10 @@ Para instalar use o composer:
 composer require oseias/extenso
 ```
 
+## Basics
+
+O método setValue pode receber valores numéricos, string ou float, com qualquer separador. Ex.: 1,123.12, 1.123,12, 1123.12 ou 1123,12.
+
 ## Usage
 
 Para utilizar:
